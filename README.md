@@ -126,11 +126,13 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 ### 네이버 AI Rush 2021
   - 이상감지 대회 최종 6위 
   ![스크린샷 2022-03-29 오후 5 46 08](https://user-images.githubusercontent.com/50691076/160571962-3b7d5045-dee8-48f0-9984-481b7054fcc5.png)
-
+#
 
 ### 네이버 부스트캠프 AI Tech 2기                   2021.08.02 ~ 2021.12.24 (5 개월)
-  - NLP 심화학습
-
+  - NLP 심화학습 및 팀프로젝트
+  - [마스크착용 이미지 분류](https://github.com/boostcampaitech2/image-classification-level1-27) 
+  - 
+#
 
 ### Okestro                                    2022.02 ~ 재직중 
   - AIOps팀 머신러닝 엔지니어 
