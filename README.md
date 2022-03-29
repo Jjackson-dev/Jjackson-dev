@@ -123,6 +123,18 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 ![Alt text](/founders3.jpg)   
 #
 
+### Naver AI Rush 2021
+  - 이상감지 1차 대회 6위 
+
+
+### Naver BoostCamp AI Tech 3기   
+  - NLP 심화학습
+
+
+### Okestro                                     재직중
+  - AIOps 머신러닝 엔지니어 
+  - Kubernetes, Kubeflow, Docker, Elastic Search 
+
 ---
 
 ## ***Education***
@@ -133,8 +145,6 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 #
 
 
-
-### Hi boostcamp! 👋
 
 <!--
 **Jjackson-dev/Jjackson-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
