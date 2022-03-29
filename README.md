@@ -124,7 +124,7 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 #
 
 ### Naver AI Rush 2021
-  - 이상감지 1차 대회 6위 
+  - 이상감지 대회 6위 
 
 
 ### Naver BoostCamp AI Tech 3기   
@@ -132,8 +132,9 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 
 
 ### Okestro                                     재직중
-  - AIOps 머신러닝 엔지니어 
+  - AIOps팀 머신러닝 엔지니어 
   - Kubernetes, Kubeflow, Docker, Elastic Search 
+  - MLOps에 관심이 많습니다
 
 ---
 
