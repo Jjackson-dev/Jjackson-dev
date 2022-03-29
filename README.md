@@ -73,7 +73,7 @@ GitHub : [Founders x Samsung][Samsunglink]
 
 ## ***Activites***
 
-### SK 인싸잇 블록체인 해커톤                                     2019.07.22 ~ 08.02 (14 days)
+### SK 인싸잇 블록체인 해커톤                         2019.07.22 ~ 08.02 (14 days)
 
 - 주최 : SK C&C, 디센터 유니버시티
 - Certificate & Details
@@ -84,7 +84,7 @@ GitHub : [Founders x SK C&C][SKlink]
 #
    
    
-### 성균관대학교 자율주행자동차 경진대회                  2019.08.20 ~ 08.23 (4 days)
+### 성균관대학교 자율주행자동차 경진대회                 2019.08.20 ~ 08.23 (4 days)
 
 - 주최 : 성균관대학교
 - Code(Arduino, C) & Details
@@ -96,7 +96,7 @@ GitHub : [Arduino_project][SK2link]
    
     
     
-### 2019 경기도 블록체인 해커톤 결선                                                     2019.09.26
+### 2019 경기도 블록체인 해커톤 결선                  2019.09.26
 
 - 주최 :  경기도청
 - Code(Javascript) & Details
@@ -116,22 +116,23 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 ![Alt text](/ai_innovation.jpg)   
 #
 
-### FOUNDERS x 삼성전자 블록체인 해커톤                2020.02.02 ~ 02.14 (14 days)
+### FOUNDERS x 삼성전자 블록체인 해커톤              2020.02.02 ~ 02.14 (14 일)
 
 - 주최 :  디센터, 삼성전자 블록체인
 - Details
 ![Alt text](/founders3.jpg)   
 #
 
-### Naver AI Rush 2021
-  - 이상감지 대회 6위 
+### 네이버 AI Rush 2021
+  - 이상감지 대회 최종 6위 
+  ![스크린샷 2022-03-29 오후 5 46 08](https://user-images.githubusercontent.com/50691076/160571962-3b7d5045-dee8-48f0-9984-481b7054fcc5.png)
 
 
-### Naver BoostCamp AI Tech 3기   
+### 네이버 부스트캠프 AI Tech 2기                   2021.08.02 ~ 2021.12.24 (5 개월)
   - NLP 심화학습
 
 
-### Okestro                                     재직중
+### Okestro                                    2022.02 ~ 재직중 
   - AIOps팀 머신러닝 엔지니어 
   - Kubernetes, Kubeflow, Docker, Elastic Search 
   - MLOps에 관심이 많습니다
@@ -140,7 +141,7 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 
 ## ***Education***
 
-- 한신대학교 재학  
+- 한신대학교 졸업 (2022.02)
 
     주전공 : 컴퓨터공학부 /  복수전공 : 응용통계학과      
 #
