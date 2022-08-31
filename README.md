@@ -1,5 +1,4 @@
 # ***Portfolio***
-![Alt text](/증사.jpg)
 ### **송민재 (Min-Jae, Song)**
 1996.02.07  
 smj7172@naver.com   
@@ -14,7 +13,6 @@ smj7172@naver.com
     - GAN을 응용한 Anomaly detection 모델인 AnoGAN활용 
     - Development Stack : Python Keras Scikit-Learn
     - 특이사항 : Image 데이터가 아닌 Structed Data에 AnoGAN을 적용해보는 시도
-    - 소스코드 : 정리 후 업로드예
     - 참고 논문 : 
        - [Generative Adversarial Nets](https://proceedings.neurips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
        - [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery](https://arxiv.org/abs/1703.05921)
@@ -109,7 +107,6 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 ### AI 이노베이션 스퀘어 오프라인 강의 수료             2019.09.07 ~ 12.01 (160시간)
 
 - 주최 : 과학기술정보통신부
-- 강사 : 박성호 교수님 - [교수님 유튜브 채널][youtubelink]
 
 [youtubelink]: https://www.youtube.com/channel/UCZAkjFAaT9gZk-nol6EIX9w
 - 주요 내용 :  ML/DL의 수학적 기본 원리, Python으로 DL구현, tensorflow 이용 CNN 구현
