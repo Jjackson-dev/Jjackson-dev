@@ -28,22 +28,16 @@ smj7172@naver.com
 ## ***Programming Language Skills***
 
 - Python
-
     Main Language in ML/DL
-
     Tensorflow, keras, scikit-learn
 
-
 - JAVA
-    
 
 - C, Javascript
- 
     arduino proejct(C), 해커톤 발표용 웹제작 (Javascript)
    
 
 - R, SAS
-
     Applied Statistics   
         Reggression Analysis
         Timeseries Analysis 
@@ -93,7 +87,6 @@ GitHub : [Arduino_project][SK2link]
 #
    
     
-    
 ### 2019 경기도 블록체인 해커톤 결선                  2019.09.26
 
 - 주최 :  경기도청
@@ -107,8 +100,6 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
 ### AI 이노베이션 스퀘어 오프라인 강의 수료             2019.09.07 ~ 12.01 (160시간)
 
 - 주최 : 과학기술정보통신부
-
-[youtubelink]: https://www.youtube.com/channel/UCZAkjFAaT9gZk-nol6EIX9w
 - 주요 내용 :  ML/DL의 수학적 기본 원리, Python으로 DL구현, tensorflow 이용 CNN 구현
 ![Alt text](/ai_innovation.jpg)   
 #
@@ -130,6 +121,11 @@ GitHub : [Gyeonggi_BlockChain][GBlink]
   - [마스크착용 이미지 분류](https://github.com/boostcampaitech2/image-classification-level1-27) 
   - 
 #
+
+### 한신대학교 창의적 종합설계 경진대회 대상(총장상)       2021.12
+  - Naver Myplace 평점데이터를 활용한 개인화된 음식점 추천 어플리케이션 
+  - 역할: 팀리딩 및 데이터수집, 알고리즘 개발
+
 
 ### Okestro                                    2022.02 ~ 재직중 
   - AIOps팀 머신러닝 엔지니어 
